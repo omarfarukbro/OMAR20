@@ -29,12 +29,12 @@
     "100094141593150"
   ],
   "developer": [
-    "100094141593150",
-    "100094141593150"
+    "61565898444113",
+    "61573725567297"
   ],
   "vipuser": [
-    "100094141593150",
-    "100094141593150"
+    "61573725567297",
+    "61565898444113"
   ],
   "reactBy": {
     "delete": ["🗑️", "❌", "😠", "😡", "😾"],
@@ -45,8 +45,8 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "chatbot",
-  "prefix": """,
+  "nickNameBot": "Your_Bot_Name",
+  "prefix": "/",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
